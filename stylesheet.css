@@ -1,0 +1,107 @@
+#header{
+    height:  5%;
+    width: 90%;
+    /*display: inline-block;*/
+    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: right;
+}
+
+.logo{
+    height: 30%;
+    width: 90%;
+    margin-top: 80px;
+    margin-bottom: 1px;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+.search{
+    height: 40px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.searchButton{
+    border-radius: 5%;
+    height: 40px;
+    background-color: #f0f8ff;
+    border: 1px none white;
+}
+
+.luckyButton{
+    border-radius: 5%;
+    height: 40px;
+    background-color: #f0f8ff;
+    border: 1px none white;
+}
+
+div p a{
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.buttons{
+    padding-left: 40%;
+    padding-top: 40px;
+}
+
+div img{
+    display: block;
+    height: 250px;
+    width: 400px;
+   margin: 0 auto;
+}
+
+div p{
+    font-size: 15px;
+    word-spacing: 10px;
+    font-color: gray;
+    text-decoration: none;
+}
+
+div p a img{
+    display: inline;
+    height: 30px;
+    width: 30px;
+    border-radius: 60%;
+    vertical-align: middle;
+}
+
+div input{
+    height: 30px;
+    width: 55%;
+    border-radius: 0;
+    border: 1px outset #00ffff;
+    margin-left: 23%;
+    margin-right: 25%;
+    margin-top: 1%;
+}
+
+.footer{
+    height: 25px;
+    width: 100%;
+    border:2px solid #87c3fa;
+    background-color: #f0f8ff;
+    margin-top: 50px;
+    padding-bottom: 16px;
+}
+
+.splitText{
+    display: block;
+    margin: 10px;
+}
+
+.splitText span{
+    display: block;
+    float: right;
+    width:15%;
+    margin-left: 10px;
+}
+
+
+
+
+
